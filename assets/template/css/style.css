@@ -1,0 +1,232 @@
+
+	/* Styling Garis  */
+	hr.new3 {
+  		border: 1px solid #007bff;
+	}
+
+	.hr-bem {
+		width: 100px;
+		height:3px;
+		border:none;
+		background-color: #0417CF;
+	}
+	.hr {
+		float: left;
+		height: 2px;
+		margin-bottom: 15px;
+	}
+	.hr1 {
+		width: 10%;
+		background: orange;
+	}
+	.hr-1 {
+		width: 10%;
+		background: #0a172b;
+	}
+	.hr2 {
+		width: 90%;
+		background: #E6E6E6;
+	}
+	.hr3 { width: 10%;
+		background: #f7a580;
+	}
+	.hr{ float: left;
+		height: 2px;
+		margin-bottom: 15px;
+	}
+	/* style ltr */
+ 	.ltr1 { height: 105px;
+ 	 	 float: left;
+ 	 	}
+ 	.kaki2 {
+ 		background-color: #0E1F45;
+ 		color: white;
+ 		padding-top: 5px;
+ 		padding-bottom: 5px;
+ 		font-family: 'Verdana', 'Arial';
+ 		font-weight: bold;}
+ 	.no_padding{
+ 		padding: 0;
+ 	}
+	/* style profil */
+	.cls {
+		color: #2E6DA4;
+		font-weight: bold;
+	}
+
+	/* Style Daftar Berita */
+	.bg-daftar_berita {
+		background-color: #e4e4e4;
+	}
+	.card-post.card-deck .card {
+		margin-bottom: 1.5em !important;
+	}
+	.card-title:hover {
+		color: #3a65af;
+	}
+	small {
+		color: rgb(13, 20, 146);
+		font-weight: 530;
+	}
+	.card-post-link, .card-post-link:hover {
+		text-decoration: none;
+	}
+	.widget {
+		margin-bottom: 1.5em !important;
+	}
+
+	/* ----- */
+
+	/* Style BEMFT Profil */
+	.bemft_profil {
+		padding-left: 45px;
+		padding-right: 45px;
+		padding-bottom: 30px;
+		border-top: 1px solid #F0F0F0;
+		color: #636363;
+	}
+	.bemft_profil .kotak {
+		padding-bottom: 15px;
+		padding-top: 15px;
+		border-left: 1px solid #F0F0F0;
+		background-color: #eaeaea;
+	}
+	.bemft_profil .kotak h5 {
+		margin-bottom: 0;
+	}
+	.bemft_profil .kotak small {
+		float: left;
+	}
+	.bemft_profil .kotak p {
+		color: rgb(44, 41, 41);
+	}
+	.bemft_profil .kotak .wk{
+		color: rgb(32, 32, 32);
+	}
+	/*  ---------------- */
+
+	/* Style Aspirasi  */
+	.feature-gradient {
+		color:#fff;
+		background-image:-webkit-linear-gradient(left,#9335ff 0%,#5c71ff 100%);background-image:linear-gradient(to right,#9335ff 0%,#5c71ff 100%)
+	}
+	.f-icon{
+		font-size:3rem;
+	}
+	.accordion .card {
+		margin-bottom:10px;
+		border:1px solid #eaeaf5;
+		border-radius:4px!important;
+		box-shadow:none;
+	}
+	.section-gap {
+		padding:5rem 0;
+	}
+	.section-gap-sm {
+		padding:3rem 0;
+	}
+	.text-paste-color {
+		color:#4bc3c3;
+		font-weight: 700;
+	}
+	.font-bem{
+		font-family: "Open Sans", Arial, sans-serif;
+		font-weight: 700;
+	}
+	/*  ---------------- */
+
+	/* Style Home Berita */
+	.bg-berita {
+		background-color: #e4e4e4;
+	}
+    .bemft_berita img {
+		width: 100%;
+	}
+    .bemft_berita .small {
+		color: rgb(13, 20, 146);
+		font-weight: 530;
+		width: 100%;
+		float: left;
+		margin-bottom: 7px;
+	}
+    .bemft_berita .small .wk {
+		float: left;
+		width: 100%;
+	}
+    .bemft_berita .small .sk{
+		float: left;
+		width: 100%;
+	}
+    .bemft_berita .sekilas {
+		color: #636363;
+		line-height: 1.5;
+	}
+	.bemft_berita .bemft_berita2 {
+		margin-bottom: 20px;
+		background-color: white;width: 100%;
+		float: left;
+	}
+	.bemft_berita .bemft_berita2 {
+		width: 100%;
+		float: left;
+		padding: 7px 17px 17px;
+	}
+	.bemft_berita .bemft_berita2 p {
+		margin: 0;
+	}
+	/*  ---------------- */
+
+	/* Style Berita */
+	.berita {
+		margin-top: 1%;
+	}
+	.inner {
+		overflow: hidden;
+	}
+	.inner img {
+		transition: all 1.5s ease;
+	}
+	.innner:hover img {
+		transform: scale(1.5);
+		opacity: 0.5;
+	}
+	.btn-berita {
+		background: #003CC4;
+		color: #fff;
+		border-radius: 40px;
+		float: right;
+		padding: 10px 10px;
+	}
+
+	/*  ---------------- */
+	.ig-thumbnail {
+		width: 100px;
+		height: 100px;
+		float: left;
+		margin: 7px;
+		overflow: hidden;
+	}
+	.ig-thumbnail img {
+		width: 100px;
+	}
+	.btn-yt {
+		font-size: 12px;
+		font-weight: 700;
+		margin-top: 30px;
+	    background: #e52d27;
+	    background: -webkit-linear-gradient(left, #b31217, #e52d27);
+	    background: -o-linear-gradient(left, #b31217, #e52d27);
+	    background: linear-gradient(to right, #b31217, #e52d27);
+	}
+	.btn-ig {
+		font-size: 12px;
+		font-weight: 700;
+		margin-top: 30px;
+		background: #833ab4;
+		background-image: background: -webkit-linear-gradient(left, #fcb045, #fd1d1d, #833ab4);
+		background-image: background: -o-linear-gradient(left, #fcb045, #fd1d1d, #833ab4);
+		background-image: background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+		background: -o-linear-gradient(left, #fcb045, #fd1d1d, #833ab4);
+		background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+
+	}
